@@ -1,0 +1,13 @@
+C:\Users\Farrukh\source\repos\index-classes\index-classes\bin\Debug\netcoreapp3.1\index-classes.exe
+C:\Users\Farrukh\source\repos\index-classes\index-classes\bin\Debug\netcoreapp3.1\index-classes.deps.json
+C:\Users\Farrukh\source\repos\index-classes\index-classes\bin\Debug\netcoreapp3.1\index-classes.runtimeconfig.json
+C:\Users\Farrukh\source\repos\index-classes\index-classes\bin\Debug\netcoreapp3.1\index-classes.runtimeconfig.dev.json
+C:\Users\Farrukh\source\repos\index-classes\index-classes\bin\Debug\netcoreapp3.1\index-classes.dll
+C:\Users\Farrukh\source\repos\index-classes\index-classes\bin\Debug\netcoreapp3.1\index-classes.pdb
+C:\Users\Farrukh\source\repos\index-classes\index-classes\obj\Debug\netcoreapp3.1\index-classes.csprojAssemblyReference.cache
+C:\Users\Farrukh\source\repos\index-classes\index-classes\obj\Debug\netcoreapp3.1\index-classes.AssemblyInfoInputs.cache
+C:\Users\Farrukh\source\repos\index-classes\index-classes\obj\Debug\netcoreapp3.1\index-classes.AssemblyInfo.cs
+C:\Users\Farrukh\source\repos\index-classes\index-classes\obj\Debug\netcoreapp3.1\index-classes.csproj.CoreCompileInputs.cache
+C:\Users\Farrukh\source\repos\index-classes\index-classes\obj\Debug\netcoreapp3.1\index-classes.dll
+C:\Users\Farrukh\source\repos\index-classes\index-classes\obj\Debug\netcoreapp3.1\index-classes.pdb
+C:\Users\Farrukh\source\repos\index-classes\index-classes\obj\Debug\netcoreapp3.1\index-classes.genruntimeconfig.cache
