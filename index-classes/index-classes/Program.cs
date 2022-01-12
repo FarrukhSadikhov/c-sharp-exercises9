@@ -54,7 +54,6 @@ namespace index_classes
             }
             while (finish == true);
             Console.ReadKey();
-
         }
     }
 }

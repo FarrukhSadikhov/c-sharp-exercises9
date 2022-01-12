@@ -9,15 +9,10 @@ namespace index_classes
         public static int counter;
         public Student() { counter++; }
         public string Surname { get; set; }
-
         public string Name { get; set; }
-
         public string MidleName { get; set; }
-
         public uint Course { get; set; }
-
         public string Faculty { get; set; }
-
         public uint GradeBook { get; set; }
     }
     class People
@@ -45,7 +40,6 @@ namespace index_classes
             }
             while (true);
         }
-
         public Student this[int index]
         {
             get
@@ -121,8 +115,7 @@ namespace index_classes
             else
             {
                 Console.WriteLine("\nСписок студентов пуст.\n");
-            }
-            
+            }            
         }
         public void PrintIndex()
         {
@@ -130,7 +123,6 @@ namespace index_classes
             uint i = CheckNumber();
             Console.WriteLine($"Фамилия = {data[i - 1].Surname} Имя  = {data[i - 1].Name} Отчество = {data[i - 1].MidleName} Course = {data[i - 1].Course} Faculty = {data[i - 1].Faculty} GradeBook = {data[i - 1].GradeBook}");
         }
-
         public Student[] Insert()
         {
             Array.Resize(ref data, data.Length + 1);

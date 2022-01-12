@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Farrukh\\source\\repos\\index-classes\\index-classes\\index-classes.csproj": {}
+    "C:\\Users\\Farrukh\\source\\repos\\c-sharp-lesson9\\index-classes\\index-classes\\index-classes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Farrukh\\source\\repos\\index-classes\\index-classes\\index-classes.csproj": {
+    "C:\\Users\\Farrukh\\source\\repos\\c-sharp-lesson9\\index-classes\\index-classes\\index-classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Farrukh\\source\\repos\\index-classes\\index-classes\\index-classes.csproj",
+        "projectUniqueName": "C:\\Users\\Farrukh\\source\\repos\\c-sharp-lesson9\\index-classes\\index-classes\\index-classes.csproj",
         "projectName": "index-classes",
-        "projectPath": "C:\\Users\\Farrukh\\source\\repos\\index-classes\\index-classes\\index-classes.csproj",
+        "projectPath": "C:\\Users\\Farrukh\\source\\repos\\c-sharp-lesson9\\index-classes\\index-classes\\index-classes.csproj",
         "packagesPath": "C:\\Users\\Farrukh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Farrukh\\source\\repos\\index-classes\\index-classes\\obj\\",
+        "outputPath": "C:\\Users\\Farrukh\\source\\repos\\c-sharp-lesson9\\index-classes\\index-classes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Farrukh\\AppData\\Roaming\\NuGet\\NuGet.Config",
